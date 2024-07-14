@@ -1,0 +1,195 @@
+body {
+    background-color: #ffffff;
+        margin: 0;
+        padding: 0;
+        cursor:zoom-in
+}
+
+@font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W0);
+    font-weight: 100;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W1);
+    font-weight: 200;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W2);
+    font-weight: 300;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W3);
+    font-weight: 400;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W4);
+    font-weight: 500;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W5);
+    font-weight: 600;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W6);
+    font-weight: 700;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W7);
+    font-weight: 800;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans";
+    src: local(HiraginoSans-W8);
+    font-weight: 900;
+  }
+  @font-face {
+    color: #ffffff;
+    font-family: "Hiragino Sans W9";
+    src: local(HiraginoSans-W9);
+    font-weight: 900;
+  }
+
+.relative{
+  position: relative;
+  width: 0px;
+  height: 0px; 
+}
+
+.switch00{
+    text-indent: 65px;
+    letter-spacing: 12px;
+    color: #ffffff;
+    font-family: 'ヒラギノ角ゴシック','Hiragino Sans','Arial','ＭＳ ゴシック','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+    src: local(HiraginoSans-W5);
+    font-weight: 600;    
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    opacity: 1;
+    height: 13%;
+    border-radius: 0px;
+    background-color: #014AAD;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding:0px; border:0px solid #ffffff
+}
+
+.switch01{
+    color: #ffffff;
+    font-family: 'ヒラギノ角ゴシック','Hiragino Sans','Arial','ＭＳ ゴシック','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+    src: local(HiraginoSans-W5);
+    font-weight: 600;    
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    opacity: 1;
+    height: 100%;
+    border-radius: 0px;
+    background-color: #FFFECA;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding:0px; border:0px solid #ffffff
+}
+
+
+
+.absolute01{
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    width: 32%;
+    object-view-box: inset(80px 105px 5px 140px);
+  }
+
+.absolute02{
+    position: absolute;
+    top: 15%;
+    left: 34%;
+    width: 32%;
+    object-view-box: inset(80px 105px 5px 140px);
+  }
+
+.absolute03{
+    position: absolute;
+    top: 15%;
+    left: 67%;
+    width: 32%;
+    object-view-box: inset(80px 105px 5px 140px);
+  }
+
+  .absolute04{
+    position: absolute;
+    top: 55%;
+    left: 1%;
+    width: 32%;
+    object-view-box: inset(80px 105px 5px 140px);
+  }
+
+  .absolute05{
+    position: absolute;
+    top: 55%;
+    left: 34%;
+    width: 32%;
+    object-view-box: inset(80px 105px 5px 140px);
+  }
+
+  .absolute06{
+    position: absolute;
+    top: 55%;
+    left: 67%;
+    width: 32%;
+    object-view-box: inset(80px 105px 5px 140px);
+  }
+
+  .absolute07{
+    font-size: 30pt;
+    color: #ffffff;
+    font-family:"ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO";    
+    position: absolute;
+    top: 5%;
+    right: 1.5%;
+    opacity: 1;
+    border-radius: 0px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding:0px; border:0px solid #ffffff
+}
+
+  
+
+
+
+
+
+
+
+
+body::-webkit-scrollbar {
+    display: none;
+  }
+  
+  html,body {
+    overflow: hidden;
+  }
