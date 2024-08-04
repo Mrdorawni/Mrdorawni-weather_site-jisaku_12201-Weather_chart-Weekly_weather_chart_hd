@@ -119,7 +119,7 @@ body {
     top: 15%;
     left: 1%;
     width: 32%;
-    object-view-box: inset(80px 105px 5px 140px);
+    object-view-box: inset(80px 90px 5px 140px);
   }
 
 .absolute02{
@@ -127,7 +127,7 @@ body {
     top: 15%;
     left: 34%;
     width: 32%;
-    object-view-box: inset(80px 105px 5px 140px);
+    object-view-box: inset(80px 90px 5px 140px);
   }
 
 .absolute03{
@@ -135,7 +135,7 @@ body {
     top: 15%;
     left: 67%;
     width: 32%;
-    object-view-box: inset(80px 105px 5px 140px);
+    object-view-box: inset(80px 90px 5px 140px);
   }
 
   .absolute04{
@@ -143,7 +143,7 @@ body {
     top: 55%;
     left: 1%;
     width: 32%;
-    object-view-box: inset(80px 105px 5px 140px);
+    object-view-box: inset(80px 90px 5px 140px);
   }
 
   .absolute05{
@@ -151,7 +151,7 @@ body {
     top: 55%;
     left: 34%;
     width: 32%;
-    object-view-box: inset(80px 105px 5px 140px);
+    object-view-box: inset(80px 90px 5px 140px);
   }
 
   .absolute06{
@@ -159,7 +159,7 @@ body {
     top: 55%;
     left: 67%;
     width: 32%;
-    object-view-box: inset(80px 105px 5px 140px);
+    object-view-box: inset(80px 90px 5px 140px);
   }
 
   .absolute07{
